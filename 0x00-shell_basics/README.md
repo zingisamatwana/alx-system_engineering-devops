@@ -15,3 +15,4 @@ File10 -> Bye bye My first directory
  File14 -> We are symbols, and inhabit symbols
  File15 -> Copy HTML files
  File16 -> Let's move
+ File17 -> Clean Emacs
