@@ -7,3 +7,4 @@ File5 -> Hidden files
 File6 -> I love numbers
 File7 -> Welcome
 File8 -> Betty in my first directory
+File9 -> Bye bye Betty
