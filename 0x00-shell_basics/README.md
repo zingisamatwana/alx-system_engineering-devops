@@ -5,3 +5,4 @@ File3 -> There is no place like home
 File4 -> The long format
 File5 -> Hidden files
 File6 -> I love numbers
+File7 -> Welcome
