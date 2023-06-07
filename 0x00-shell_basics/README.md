@@ -16,3 +16,5 @@ File10 -> Bye bye My first directory
  File15 -> Copy HTML files
  File16 -> Let's move
  File17 -> Clean Emacs
+ File18 -> Tree
+ File19 -> Life is a series of commas, not periods
