@@ -6,3 +6,4 @@ File4 -> task: New owner
 File5 -> task: Empty!
 File6 -> task: Execute
 File7 -> task: Multiple permissions
+File8 -> task: Everybody!
