@@ -9,3 +9,5 @@ File6 -> Line #2
 File7 -> It is a good file that cuts iron without making a noise
 File8 -> Save current state of directory
 File9 -> Duplicate last line
+File10 -> No more javascript
+File11 -> Don't just count your directories, make your directories count
