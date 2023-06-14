@@ -1,0 +1,16 @@
+#!/bin/bash
+encode() {
+    echo "$1" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+}
+
+decode() {
+    echo "$1" | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+}
+
+if [ "$1" == "encode" ]; then
+    encode "$2"
+elif [ "$1" == "decode" ]; then
+    decode "$2"
+else
+    echo "Usage: ./rot13.sh [encode|decode] <text>"
+fi
